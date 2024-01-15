@@ -12,16 +12,7 @@ ye hai master pe change
 yeh hai b main change
 
 
-change in branch b
 
-
-some changes in branch b
-
-some changes in master 
-
-first change in c
-
-second change in c
 
 
 
