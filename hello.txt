@@ -19,4 +19,11 @@ some changes in branch b
 
 some changes in master 
 
+first change in c
+
+second change in c
+
+
+
+
 
